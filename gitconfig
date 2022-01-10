@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = denizkazdal99@gmail.com
+	name = Deniz Kazdal
